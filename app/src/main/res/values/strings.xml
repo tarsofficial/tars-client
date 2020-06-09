@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tars</string>
+
+    <string name="action_settings">Menu</string>
+
+    <string name="db_success">Successfully added!</string>
+    <string name="db_save_error">Error during saving. Please try again!</string>
+    <string name="db_address_error">Address does not match confirmation!</string>
+
+    <string name="payee_name">payeeName</string>
+
+    <string name="wallet_header">%s\'s wallets</string>
+</resources>

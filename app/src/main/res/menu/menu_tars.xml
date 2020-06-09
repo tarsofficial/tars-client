@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.vasmajom.tars.activities.PayeeList">
+    <item
+        android:id="@+id/contact_menu"
+        android:orderInCategory="100"
+        android:title="Join Us!"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/reset"
+        android:orderInCategory="100"
+        android:title="Reset"
+        app:showAsAction="never" />
+</menu>
